@@ -25,7 +25,7 @@ It covers the following tips:
 
 - [How To Debug Early Process Initialization (eg. Launch Daemons)](https://dennisbabkin.com/blog/?i=AAA11600#dbg_early_proc)
 
-- [How To Debug Post-Mortem Crashes Using Crash Log Filess](https://dennisbabkin.com/blog/?i=AAA11600#dbg_w_crash_log)
+- [How To Debug Post-Mortem Crashes Using Crash Log Files](https://dennisbabkin.com/blog/?i=AAA11600#dbg_w_crash_log)
 
 - [How To Symbolicate a Crash Log File](https://dennisbabkin.com/blog/?i=AAA11600#symb_crash_log)
 
