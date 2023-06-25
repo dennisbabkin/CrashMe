@@ -259,7 +259,7 @@ void* Crash::threadRaceCondition(void *arg)
 
 #if defined(__aarch64__)
 
-///Demonstrate undefined behavior bug (availabel on ARM64 CPU)
+///Demonstrate undefined behavior bug (available on ARM64 CPU)
 void Crash::demoUndefinedBehavior()
 {
     char buff[32] = {};
