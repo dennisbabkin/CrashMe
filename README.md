@@ -13,7 +13,7 @@ It covers the following tips:
 
 - [How to Diagnose Memory Corruption](https://dennisbabkin.com/blog/?i=AAA11600#mem_corruption)
 
-- [Address Sanitizer in Xcode](https://dennisbabkin.com/blog/?i=AAA11600#addr_san)
+- [Example of Address Sanitizer in Xcode](https://dennisbabkin.com/blog/?i=AAA11600#addr_san)
 
 - [More On Sanitizers in Xcode](https://dennisbabkin.com/blog/?i=AAA11600#more_san):
 
@@ -23,9 +23,9 @@ It covers the following tips:
 
   - [Undefined Behavior Sanitizer](https://dennisbabkin.com/blog/?i=AAA11600#more_ub_san)
 
-- [How To Debug Early Process Initialization](https://dennisbabkin.com/blog/?i=AAA11600#dbg_early_proc)
+- [How To Debug Early Process Initialization (eg. Launch Daemons)](https://dennisbabkin.com/blog/?i=AAA11600#dbg_early_proc)
 
-- [How To Debug Post-Mortem Crashes Using Crash Log File](https://dennisbabkin.com/blog/?i=AAA11600#dbg_w_crash_log)
+- [How To Debug Post-Mortem Crashes Using Crash Log Filess](https://dennisbabkin.com/blog/?i=AAA11600#dbg_w_crash_log)
 
 - [How To Symbolicate a Crash Log File](https://dennisbabkin.com/blog/?i=AAA11600#symb_crash_log)
 
