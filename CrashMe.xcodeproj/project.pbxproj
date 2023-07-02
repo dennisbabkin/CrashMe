@@ -29,6 +29,8 @@
 		A4B776F22A42EA23001A04C0 /* Crash.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Crash.cpp; sourceTree = "<group>"; };
 		A4B776F32A42EA24001A04C0 /* Crash.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Crash.hpp; sourceTree = "<group>"; };
 		A4B776F52A4860D2001A04C0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A4B776F62A516021001A04C0 /* Scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Scripts; sourceTree = "<group>"; };
+		A4B776F72A51A10C001A04C0 /* AppBundleTemplate */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AppBundleTemplate; path = Scripts/AppBundleTemplate; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,8 @@
 		A4B776DF2A42E795001A04C0 = {
 			isa = PBXGroup;
 			children = (
+				A4B776F72A51A10C001A04C0 /* AppBundleTemplate */,
+				A4B776F62A516021001A04C0 /* Scripts */,
 				A4B776F52A4860D2001A04C0 /* README.md */,
 				A4B776EA2A42E795001A04C0 /* CrashMe */,
 				A4B776E92A42E795001A04C0 /* Products */,

@@ -18,6 +18,11 @@
 
 
 
+#define APP_VERSION "1.0.0"         //App version - it is also used by the build script!
+
+
+
+
 
 int main(int argc, const char * argv[])
 {
