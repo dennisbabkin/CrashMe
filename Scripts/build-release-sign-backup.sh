@@ -132,7 +132,7 @@ fi
 
 
 
-# Get version of the LABService from the source file
+# Get version of the app from the source file
 # INFO: We'll use it in the names of files later in the build process...
 app_ver_line=$(ls -l | grep -E '#define\s+APP_VERSION\s+"(.*)"' "$this_dir/CrashMe/main.cpp")
 
@@ -777,7 +777,7 @@ cp -r "$this_dir" "$dmg_dir"
 # Check result
 exit_code=$?
 if [ $exit_code != 0 ]; then
-    echo_error "  [835] FAILED to copy LABServiceMac directory: code=$exit_code"
+    echo_error "  [835] FAILED to copy source directory: code=$exit_code"
     
     $(rm -rf "$tmp_wrk_dir")
     
